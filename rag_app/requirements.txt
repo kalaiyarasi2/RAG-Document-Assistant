@@ -1,0 +1,12 @@
+streamlit
+groq
+python-dotenv
+PyPDF2
+python-docx
+pandas
+openpyxl
+python-pptx
+langchain
+sentence-transformers
+faiss-cpu   # or faiss-gpu
+numpy
